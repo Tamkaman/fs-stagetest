@@ -1,4 +1,4 @@
-# stagetest v1
+# stagetest v2
 
 A Frontend Slides deck, published with GitHub Pages.
 
